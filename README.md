@@ -6,7 +6,7 @@ Hi everyone!:+1:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtabekVaxobov&layout=compact&theme=" />
 
-<img align="center" src="https://www.codewars.com/users/otabekvaxobov/badges/micro" />
+<img align="center" src="https://www.codewars.com/users/rsschool_39291941279e5d13/badges/micro" />
 
 
 
