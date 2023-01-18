@@ -10,3 +10,4 @@ Hi everyone!:+1:
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=OtabekVaxobov&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/OtabekVaxobov/github-readme-stats#gh-dark-mode-only)
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtabekVaxobov" />
