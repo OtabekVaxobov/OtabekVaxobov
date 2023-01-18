@@ -9,4 +9,4 @@ Hi everyone!:+1:
 <img align="center" src="https://www.codewars.com/users/rsschool_39291941279e5d13/badges/micro" />
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=OtabekVaxobov&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/OtabekVaxobov/github-readme-stats#gh-dark-mode-only)
