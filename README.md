@@ -13,4 +13,4 @@ Organizations
 
 <a href="https://github.com/unicon-soft-uz" rel="some text">![Foo](https://avatars.githubusercontent.com/u/124038202?s=96&v=4)</a>
 <a href="https://github.com/Gulistan-Developers-Community" rel="some text">![Foo](https://avatars.githubusercontent.com/u/105513348?s=96&v=4)</a>
-<a href="https://github.com/Sirdarya-Clinics" rel="some text">![Foo]([https://avatars.githubusercontent.com/u/105513348?s=96&v=4](https://avatars.githubusercontent.com/u/151064553?s=200&v=4)https://avatars.githubusercontent.com/u/151064553?s=200&v=4)</a>
+<a href="https://github.com/Sirdarya-Clinics" rel="some text">![Foo](https://avatars.githubusercontent.com/u/151064553?s=96&v=4)</a>
